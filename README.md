@@ -1,4 +1,4 @@
-```json
+```js
 {
    'Name': 'FarhanID',
    'Umur': '13yo',

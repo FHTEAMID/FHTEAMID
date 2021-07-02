@@ -2,7 +2,7 @@
 {
    'Name': 'FarhanID',
    'Umur': '13yo',
-   'Study': 'smp 2 krngsmbng'
+   'Info': 'murid smp n2 krngsmbng'
 }
 ```
 ![FHTEAM github stats](https://github-readme-stats.vercel.app/api?username=FHTEAMID&show_icons=true)
